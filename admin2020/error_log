@@ -1,0 +1,5 @@
+[28-May-2018 23:26:36 America/Argentina/Mendoza] PHP Fatal error:  Call to undefined function password_verify() in /home/dardoluc/public_html/2017/admin1520/libreria/funciones.php on line 38
+[28-May-2018 23:28:07 America/Argentina/Mendoza] PHP Fatal error:  Call to undefined function password_verify() in /home/dardoluc/public_html/2017/admin1520/libreria/funciones.php on line 38
+[28-May-2018 22:06:40 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dardoluc/public_html/2017/admin1520/libreria/conexion/conexion.php on line 7
+[28-May-2018 22:06:50 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dardoluc/public_html/2017/admin1520/libreria/conexion/conexion.php on line 7
+[28-May-2018 22:06:55 America/Chicago] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/dardoluc/public_html/2017/admin1520/libreria/conexion/conexion.php on line 7
